@@ -1,3 +1,5 @@
+<div align="justify">
+
 # AUTARTOS S.A. | Bionanosatellite Navigation Simulator (BNS)
 ## Under the Aegis of IPTIM Solutions (UK) | ART 3AI Interface
 
@@ -65,3 +67,4 @@ Computational logic is based on **Platonic Solids** for clear controller geometr
 *Verified from the Royal Chamber (Cheops Digital Decode).*
 *Contact: Via the Acacia Union Authorized Channels.*
 
+</div>
