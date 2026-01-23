@@ -6,5 +6,5 @@ Welcome to the AUTARTOS R&D environment. To ensure a successful start, follow th
 2. **Interface Selection:** Identify your personal 3D Divergence Point (your primary tool/interface).
 3. **GAP Activation:** Use the Green Button to initiate a Self-Mode session. Record your 6-digit sequence for future Co-op sessions with the Lead Controller.
 
-*Note: For a detailed step-by-step guide, please refer to the [Tutorial] (Coming Soon).*
+*Note: For a detailed step-by-step guide, please refer to the [Tutorial](TUTORIAL.md).*
 
