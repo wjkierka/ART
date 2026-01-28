@@ -20,7 +20,7 @@ This Research & Development (R&D) environment is developed in strategic cooperat
 ### 4. R&D TESTING & USAGE RULES
 * **Purpose:** The BNS Simulator is provided for research, training, and simulation purposes only.
 * **The Alcove Security:** Navigators (Students/Partners) are required to maintain the physical stability of the Bionanosatellite within their designated workspace (The Alcove). 
-* **FBC Authority:** Navigation beyond the physical workspace is authorized strictly via the **Floating Bionanosatellite Cursor (FBC)**.
+* **FBC Authority:** Navigation beyond the physical workspace is authorized strictly via the **Freed Bionanosatellite Cursor (FBC)**.
 * **Data Sovereignty:** While IPTIM Solutions owns the core architecture, users retain sovereignty over their personal bionavigational data generated during sessions.
 
 ### 5. LIMITATION OF LIABILITY
