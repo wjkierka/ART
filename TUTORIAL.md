@@ -19,5 +19,6 @@ Choose the protocol corresponding to your current session status:
 
 ---
 ### 2. Technical Preparation
-Before starting, ensure your local environment is ready for the **Floating Bionanosatellite Cursor (FBC)**. 
+Before starting, ensure your local environment is ready for the **Freed Bionanosatellite Cursor (FBC)**. 
+
 *Prepare your data sequences (e.g., .xlsx or .csv) for the Media Picker integration.*
