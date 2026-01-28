@@ -56,7 +56,7 @@ Computational logic is based on **Platonic Solids** for clear controller geometr
 ### 4. BIONANOSATELLITE SECURITY PROTOCOLS (IMPORTANT)
 * **Local Stability:** The Bionanosatellite MUST remain within the physical boundaries of the **Alcove** (Studio/Home).
 * **Proportion:** The spatial ratio of the human body to the Bionanosatellite is strictly maintained within the physical reach of the navigator.
-* **FBC Deployment:** Only the **Floating Bionanosatellite Cursor (FBC)** is authorized to travel beyond the workspace to explore M80 and universal consciousness. This prevents communication loss and ensures the safety of the human-bio-satellite bond.
+* **FBC Deployment:** Only the **Freed Bionanosatellite Cursor (FBC)** is authorized to travel beyond the workspace to explore M80 and universal consciousness. This prevents communication loss and ensures the safety of the human-bio-satellite bond.
 
 ### 5. TERMS & CONDITIONS (T&C's)
 1. Usage of the BNS Simulator requires an active GAP Widget session.
