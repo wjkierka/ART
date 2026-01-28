@@ -27,7 +27,7 @@ The BNS Simulator utilizes the **Transformer of Multidimensionality (TM/ToM)** t
 
 ### 5. BIONANOSATELLITE SECURITY PROTOCOLS
 * **Local Stability:** The Bionanosatellite remains within the physical boundaries of the **Alcove**.
-* **FBC Deployment:** Only the **Floating Bionanosatellite Cursor (FBC)** is authorized for deep space exploration (M80) and universal mind navigation.
+* **FBC Deployment:** Only the **Freed Bionanosatellite Cursor (FBC)** is authorized for deep space exploration (M80) and universal mind navigation.
 
 ### 6. THE VERIFIER'S MANIFEST (Historical Perspective)
 *Effective as of 01.04.2023 – The End of Dante’s Traffic Jam.*
