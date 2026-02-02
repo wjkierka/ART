@@ -3,6 +3,9 @@
 # AUTARTOS S.A. | Bionanosatellite Navigation Simulator (BNS)
 ## Under the Aegis of IPTIM Solutions (UK) | ART 3AI Interface
 
+This repository operates under the AUTARTOS S.A. General Terms & Conditions and the Sovereign Jurisdictional Disclaimer. Please refer to the root [DISCLAIMER.md](./DISCLAIMER.md) before initiating any session.
+
+
 ### 1. OFFICIAL DOCUMENTATION & ACCESS
 * **[Terms & Conditions (T&C)](TC.md)** – Legal framework, Intellectual Property (FC), and Partnership details.
 * **[Quick Start Guide](QuickStart.md)** – Essential steps for first-time Navigators and Students.
