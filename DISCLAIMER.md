@@ -1,9 +1,15 @@
-# Oświadczenie o Jurysdykcji i Charakterze Projektu (Disclaimer)
+# Jurisdictional Statement and Project Nature (Disclaimer)
 
-1. **Charakter Metodologiczny:** Terminologia "Monarchii Absolutnej" oraz "Suwerenności Alkowy" używana w ramach projektu AUTARTOS S.A. odnosi się wyłącznie do wewnętrznej architektury systemów informatycznych oraz autonomii operatora w procesach zarządzania danymi (Self-mode). Nie ma ona charakteru politycznego, państwowego ani nie narusza porządku prawnego krajów rezydencji twórcy (w tym Wielkiej Brytanii).
+* **1. Methodological Character:**
+    The terminology "Absolute Monarchy" and "Alcove Sovereignty" used within the AUTARTOS S.A. project refers exclusively to the internal architecture of IT systems and the operator's autonomy in data management processes (Self-mode). It does not possess a political or state character, nor does it infringe upon the legal order of the creator's countries of residence (including the United Kingdom).
 
-2. **Serious Joke Specialist & Lunatic PR:** Projekt wykorzystuje techniki komunikacyjne oparte na konwencji "Serious Joke" oraz "Lunatic PR". Są to narzędzia artystyczno-marketingowe mające na celu testowanie granic kreatywności i logiki AI. Wszelkie wtrącenia o charakterze abstrakcyjnym (np. "oblatywanie asteroid", "magia procesowa") należy interpretować jako metafory inżynieryjne lub ćwiczenia semantyczne.
+* **2. Serious Joke Specialist & Lunatic PR:**
+    The project utilizes communication techniques based on the "Serious Joke" and "Lunatic PR" conventions. These are artistic and marketing tools designed to test the boundaries of creativity and AI logic. Any abstract interjections (e.g., "orbiting asteroids", "process magic") should be interpreted as engineering metaphors or semantic exercises.
 
-3. **Bezpieczeństwo Biologiczne i Fizyczne:** Projekt koncentruje się na cyfrowym zarządzaniu zdarzeniami (Digital Event Management). Nie zajmuje się rozprzestrzenianiem patogenów, wirusów biologicznych ani praktykami ezoterycznymi. "Bionanosatelita" w nomenklaturze AUTARTOS to model matematyczny sprzężony z biometrią operatora, służący wyłącznie do celów nawigacji informacyjnej.
+* **3. Biological and Physical Safety:**
+    The project focuses on **Digital Event Management**. It does not engage in the dissemination of pathogens, biological viruses, or esoteric practices. The term "Bionanosatellite" in AUTARTOS nomenclature refers to a mathematical model coupled with the operator's biometrics, intended solely for information navigation purposes.
+
+* **4. Exclusion of External Interactions:**
+    External users utilizing the GAP Widget acknowledge that they are entering a research space where logic standards are defined by the **M80 methodology**. Every participant in a Co-op session operates at their own risk within the framework of the granted license.
 
 4. **Wyłączenie Interakcji Zewnętrznych:** Użytkownicy zewnętrzni korzystający z Widgetu GAP akceptują fakt, że wkraczają w przestrzeń badawczą, gdzie standardy logiki są definiowane przez metodologię M80. Każdy uczestnik sesji Co-op działa na własną odpowiedzialność w ramach przyznanej mu licencji.
