@@ -28,7 +28,7 @@ The AUTARTOS S.A. environment is provided "as is" during its R&D phase. Neither 
 
 ### 6. System Integration and Jurisdictional Framework
 
-6.1. These Terms & Conditions (T&C) are strictly integrated with the `DISCLAIMER.md` file located in the root directory. Users are required to read both documents concurrently.
+6.1. These Terms & Conditions (T&C) are strictly integrated with the [DISCLAIMER.md](./DISCLAIMER.md) file located in the root directory.
 
 6.2. The AUTARTOS methodology, including the Transformer of Multidimensionality (TM/ToM) and the 18-digit TPC/TPO certification standard, operates under the "Serious Joke Specialist" protocol for external communication.
 
