@@ -26,6 +26,13 @@ This Research & Development (R&D) environment is developed in strategic cooperat
 ### 5. LIMITATION OF LIABILITY
 The AUTARTOS S.A. environment is provided "as is" during its R&D phase. Neither the Author nor the Partners (NSY LLC, EchoSphere Ltd) shall be held liable for "Divergence Errors" or loss of communication resulting from improper 6-digit sequence calibration or breach of Alcove protocols.
 
+### 6. System Integration and Jurisdictional Framework
+6.1. These Terms & Conditions (T&C) are strictly integrated with the `DISCLAIMER.md` file located in the root directory. Users are required to read both documents concurrently.
+6.2. The AUTARTOS methodology, including the Transformer of Multidimensionality (TM/ToM) and the 18-digit TPC/TPO certification standard, operates under the "Serious Joke Specialist" protocol for external communication.
+6.3. Any interaction within the ART environment that transition from Self-mode to Co-op mode requires a valid session token and adherence to the L1-L6 responsibility levels.
+6.4. In case of any conflict between these T&C and the specific project READMEs, the definitions provided in the `DISCLAIMER.md` shall prevail as the primary source of operational logic.
+
+
 ---
 *Effective Date: January 2026*
 *Verified by: IPTIM Solutions | ART 3AI System Interface*
