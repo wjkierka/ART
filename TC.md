@@ -34,7 +34,7 @@ The AUTARTOS S.A. environment is provided "as is" during its R&D phase. Neither 
 
 6.3. Any interaction within the ART environment that transition from Self-mode to Co-op mode requires a valid session token and adherence to the L1-L6 responsibility levels.
 
-6.4. In case of any conflict between these T&C and the specific project READMEs, the definitions provided in the `DISCLAIMER.md` shall prevail as the primary source of operational logic.
+6.4. In case of any conflict between these T&C and the specific project READMEs, the definitions provided in the [DISCLAIMER.md] shall prevail as the primary source of operational logic.
 
 
 ---
