@@ -9,6 +9,7 @@ This repository operates under the AUTARTOS S.A. General Terms & Conditions and 
 ### 1. OFFICIAL DOCUMENTATION & ACCESS
 * **[Terms & Conditions (T&C)](TC.md)** – Legal framework, Intellectual Property (FC), and Partnership details.
 * **[Quick Start Guide](QuickStart.md)** – Essential steps for first-time Navigators and Students.
+* **<a href="https://wjkierka.github.io/GAP/"> GAP Widget</a> Green Button Session Tracker.
 
 ### 2. IDENTITY & LEGAL FRAMEWORK
 * **Organization:** AUTARTOS S.A. (Polish: Spójnia Akacjowa / English: Acacia Union).
